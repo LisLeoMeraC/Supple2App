@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/DAO/PedidoEliminadoDao.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Controller/PedidoController.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/web/resources/js/angular.js</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/DAO/PedidoDao.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Servlets/ProductoServlet.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Controller/DetallePedidoController.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Servlets/UsuarioServlet.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/DAO/DetallePedidoEliminadoDao.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Models/DetallePedido.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/web/index.html</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Controller/ProductoController.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/web/admin.html</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Models/Pedido.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Models/Producto.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/web/resources/fonts/open-iconic.eot</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/web/resources/css/bootstrap.css</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Servlets/SessionServlet.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/DAO/DetallePedidoDao.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/web/resources/css/general.css</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Servlets/PedidoServlet.java</file>
+            <file>file:/C:/ProyectosWeb/App_Suple2/src/java/Controller/DetallePedidoEliminadoController.java</file>
+        </group>
+    </open-files>
+</project-private>
